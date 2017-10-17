@@ -1,0 +1,11 @@
+{
+	"id": "browser_default_language",
+	"version": "1.0",
+	"description": "Get the preferred language of the client",
+	"categories": [
+		"language",
+		"internationalization",
+		"i18n"
+	],
+	"compatible_from": "2017.4.1"
+}
