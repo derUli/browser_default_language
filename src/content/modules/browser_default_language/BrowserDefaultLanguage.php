@@ -1,6 +1,6 @@
 <?php
 #########################################################
-# Copyright © 2008 Darrin Yeager                        #
+# Copyright Â© 2008 Darrin Yeager                        #
 # https://www.dyeager.org/                               #
 # Licensed under BSD license.                           #
 #   https://www.dyeager.org/downloads/license-bsd.txt    #
