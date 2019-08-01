@@ -1,6 +1,6 @@
 <?php
 
-class BrowserDefaultLanguageTest extends PHPUnit_Framework_TestCase
+class BrowserDefaultLanguageTest extends \PHPUnit\Framework\TestCase
 {
 
     public function testParseDefaultLanguage()
